@@ -12953,7 +12953,50 @@
       ]
     }
   ],
-  "changes": [],
+  "changes": [
+    {
+      "id": "chg-20261116-routeRemoved-5-11-tactical-idmeShop",
+      "kind": "routeRemoved",
+      "routeID": "5-11-tactical-idmeShop",
+      "headline": "5.11 Tactical dropped from ID.me Shop",
+      "date": "2026-11-16T19:16:16Z"
+    },
+    {
+      "id": "chg-20261116-routeChanged-merrell-idmeShop",
+      "kind": "routeChanged",
+      "routeID": "merrell-idmeShop",
+      "headline": "Merrell on ID.me Shop changed to −20%",
+      "date": "2026-11-16T19:16:16Z"
+    },
+    {
+      "id": "chg-20261116-routeChanged-duluth-trading-idmeShop",
+      "kind": "routeChanged",
+      "routeID": "duluth-trading-idmeShop",
+      "headline": "Duluth Trading on ID.me Shop changed to −5%",
+      "date": "2026-11-16T19:16:16Z"
+    },
+    {
+      "id": "chg-20261116-routeChanged-devil-dog-dungarees-idmeShop",
+      "kind": "routeChanged",
+      "routeID": "devil-dog-dungarees-idmeShop",
+      "headline": "DEVIL-DOG Dungarees on ID.me Shop changed to −20%",
+      "date": "2026-11-16T19:16:16Z"
+    },
+    {
+      "id": "chg-20261116-routeChanged-columbia-idmeShop",
+      "kind": "routeChanged",
+      "routeID": "columbia-idmeShop",
+      "headline": "Columbia on ID.me Shop changed to −10%",
+      "date": "2026-11-16T19:16:16Z"
+    },
+    {
+      "id": "chg-20261116-routeChanged-adidas-idmeShop",
+      "kind": "routeChanged",
+      "routeID": "adidas-idmeShop",
+      "headline": "adidas on ID.me Shop changed to −30%",
+      "date": "2026-11-16T19:16:16Z"
+    }
+  ],
   "channels": [
     {
       "channel": "aafes",
